@@ -5,11 +5,10 @@ A Note taking desktop app with out-of-the-box markdown support. Built with Elect
 You can follow along the entire development of this project here 👇
 
 ### Here are some Screen Shots of the Application:
+![notepad](https://github.com/user-attachments/assets/e56c66f7-0a12-4d6e-bd9a-8cb6db069dab)
 
-![image](https://github.com/ghousetazeem/Markdown-Notepad-Desktop-App/assets/74200389/6653988b-64a0-4960-88ae-a42d17cec3cf)
 <br>
-<br>
-![image](https://github.com/ghousetazeem/Markdown-Notepad-Desktop-App/assets/74200389/2ec965e0-15b0-4fc7-9574-2117118638ac)
+
 
 
 ## Project Setup
